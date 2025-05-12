@@ -1,6 +1,6 @@
 # Shipping & Returns - Tree Spirits Design
 
-_Last updated: [Insert Date]_
+_Last updated: 05/12/2025 (mm/dd/yyyy)
 
 ## Shipping Policy
 - Orders are processed within **[X] business days** and shipped via **[Carrier Name]**.
