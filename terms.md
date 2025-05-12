@@ -1,6 +1,6 @@
 # Terms of Use - Tree Spirits Design
 
-_Last updated: [Insert Date]_
+_Last updated: 05/12/2025 (mm/dd/yyyy)
 
 ## 1. Introduction
 Welcome to **Tree Spirits Design**! By accessing our website and purchasing from our store, you agree to comply with these Terms of Use. If you do not agree, please refrain from using our site.
